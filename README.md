@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **A 10-page enterprise Power BI platform for Employee Claims & Finance (ECF) payment analytics — providing operational visibility into claims processing, reimbursement efficiency, financial risk, and stakeholder decision-making across 7 global regions.**
-https://app.powerbi.com/links/h_CISIwi8a?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
+## 📊 Live Dashboard 🔗 [View Live Dashboard](https://app.powerbi.com/links/h_CISIwi8a?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
 ---
 
 ## 🎯 Business Objectives
